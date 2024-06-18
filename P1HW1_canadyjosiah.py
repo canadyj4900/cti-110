@@ -1,6 +1,6 @@
 # josaiah canady
 # 6/16/2024
-# P1LAB1 Instructions
+# P1HW1 Instructions
 #a small calculator for exponents and a simple equation 
 print("-----Calculating Exponents-----")
 print("")
