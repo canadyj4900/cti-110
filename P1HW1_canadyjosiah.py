@@ -1,7 +1,8 @@
 # josaiah canady
 # 6/16/2024
 # P1LAB1 Instructions
-print("-----Calculating Exponets-----")
+#a small calculator for exponents and a simple equation 
+print("-----Calculating Exponents-----")
 print("")
 print("")
 x =int(input("Enter an integer as the base value: ")) 
