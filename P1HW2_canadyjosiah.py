@@ -1,0 +1,25 @@
+# josaiah canady
+# 6/16/2024
+# P1HW2 Instructions
+# code to measure how much you will be spending on your next trip
+print('This program calculates and displays travel expenses')
+print('')
+z=int(input('Enter Budget:'))
+print('')
+x=input('Enter your travel destination:')
+print('')
+c=int(input('How much do you think you will spend on gas?:'))
+print('')
+v=int(input('Approximately, how much willl you need for accomodation/hotel:'))
+print('')
+b=int(input('Last, how much do you need for food?:'))
+an= ( z-c-v-b)
+print('')
+print("------------Travel Expenses------------")
+print('location:', x)
+print('Initial Budget:', z)
+print('fuel:', c)
+print('Accomodation:', v)
+print('food:',b)
+print('')
+print('Remaining balance' ,an)
