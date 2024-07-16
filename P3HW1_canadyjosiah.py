@@ -23,6 +23,14 @@ if y==100:
     print("A")
 if y==0:
     print("F")
+if y==79:
+    print('C')
+if y==89:
+    print('B')
+if y==69:
+    print('D')
+if y==59:
+    print('F')
 if 89<y<100:
     print('A')
 if 79<y<80:
