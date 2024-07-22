@@ -1,6 +1,6 @@
 change= float(input('Enter the amount of monry as a float:'))
 if change == 0:
-    Print("No change needed")
+    print("No change needed")
 
 num_dollars = change // 100
 change = change- (num_dollars * 100)
